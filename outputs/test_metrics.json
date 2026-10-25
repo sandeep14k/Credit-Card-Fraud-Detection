@@ -1,0 +1,25 @@
+{
+  "best_model": "Random Forest",
+  "test_pr_auc": 0.8760571354843603,
+  "test_roc_auc": 0.9771635245229675,
+  "default_threshold_0.5": {
+    "threshold": 0.5,
+    "precision": 0.9629629629629629,
+    "recall": 0.7878787878787878,
+    "f1": 0.8666666666666667,
+    "TN": 56860,
+    "FP": 3,
+    "FN": 21,
+    "TP": 78
+  },
+  "tuned_threshold": {
+    "threshold": 0.3447635876517547,
+    "precision": 0.9,
+    "recall": 0.8181818181818182,
+    "f1": 0.8571428571428571,
+    "TN": 56854,
+    "FP": 9,
+    "FN": 18,
+    "TP": 81
+  }
+}

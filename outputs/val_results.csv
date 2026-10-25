@@ -1,0 +1,5 @@
+model,pr_auc,roc_auc
+Logistic Regression,0.6857,0.9806
+Decision Tree,0.6028,0.9279
+KNN,0.5876,0.9303
+Random Forest,0.7924,0.9507
