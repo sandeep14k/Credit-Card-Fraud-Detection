@@ -5,11 +5,11 @@ Leakage-safe fraud detection on the ULB credit card dataset (284,807 transaction
 ## Project structure
 ```
 fraud-detection/
-├── data/creditcard.csv      <- you download this (not committed to git)
-├── outputs/                 <- generated: metrics, plots, saved model
-├── download_data.py         <- fetches the dataset from Kaggle
-├── train.py                 <- full pipeline (split, CV, tuning, test, plots)
-├── predict.py               <- score new transactions with the saved model
+├── data/creditcard.csv      
+├── outputs/                 
+├── download_data.py         
+├── train.py                
+├── predict.py               
 ├── requirements.txt
 └── README.md
 ```
